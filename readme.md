@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Shri Ram dwivedi** - *Initial work* - [https://github.com/shri-ram07]
 
 ## 🙏 Acknowledgments
 
@@ -189,19 +189,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ by [Shri Ram Dwivedi]
 </p>
 
-This markdown format includes:
-- Emojis for better visual appeal
-- Clear section headers
-- Code blocks with syntax highlighting
-- Tables for structured data
-- Badges for quick information
-- Proper hierarchical structure
-- Clean and professional layout
-- Easy navigation
-- Aligned center text
-
-To use this:
-1. Save as `README.md`
-2. Replace placeholder usernames and links
-3. Add your personal information
-4. Commit to your repository
